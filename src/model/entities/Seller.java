@@ -33,11 +33,9 @@ public class Seller {
 	}
 
 
-
 	public void setDepartment(Department department) {
 		this.department = department;
 	}
-
 
 
 	public Integer getId() {
